@@ -1,20 +1,10 @@
-# IX-Ray Legs Addon
-
-<div>
-  <p>
-    <a href="https://github.com/ixray-community/ixray-legs-addon/releases/latest">
-      <img src="https://img.shields.io/github/v/release/ixray-community/ixray-legs-addon?include_prereleases&label=Release" alt="Latest release" />
-    </a>
-    <a href="./LICENSE.txt">
-      <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA--4.0-orange.svg" alt="License" />
-    </a>
-    <a href="https://github.com/ixray-community/ixray-legs-addon/actions/workflows/pack-addon.yml">
-      <img src="https://github.com/ixray-community/ixray-legs-addon/actions/workflows/pack-addon.yml/badge.svg" alt="Pack addon" />
-    </a>
-  </p>
-</div>
+# Legs Addon (ver. 1.1) for IX-Ray Platform
 
 Addon which enables and adds legs for the protagonist
+
+## Overview
+
+This addon fixes one of the most noticeable visual flaws of the original game — the missing legs of the protagonist. Now, when you look down, you'll see legs that match your selected suit
 
 ## Remarks
 
@@ -24,16 +14,14 @@ Addon which enables and adds legs for the protagonist
 
 ## Requirements
 
-- Original Call of Pripyat 1.6.02 resources
-- [Latest IX-Ray release](https://github.com/ixray-team/ixray-1.6-stcop/releases/latest)
+Installation:
 
-## Installation
+1. Install original Stalker Call of Pripyat 1.6.02
+2. Install current version of IX-Ray (minimum 1.1)
+3. Extract addon archive into the game folder
+4. Start the game and play
 
-1. Install the original Call of Pripyat 1.6.02
-2. Install the latest release of IX-Ray
-3. In the game's root folder create an `ixr_addons` folder
-4. Extract the archive into the `ixr_addons` folder
-5. Start the game and enjoy!
+Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6-stcop/releases/latest)
 
 ## Contributors
 
@@ -41,9 +29,43 @@ Addon which enables and adds legs for the protagonist
   - `Hozar_2002`
 
 - Community
-  - Lost Alpha
-  - Dead Air
+  - `Lost Alpha`
+  - `Dead Air`
 
 ## License
 
-Contents of this repository licensed under terms of the __CC BY-NC-SA 4.0__ license unless otherwise specified. See [this](./LICENSE.txt) file for details
+Сontents of this repository are licensed under terms of the __CC BY-NC-SA 4.0__ license unless otherwise specified. See [this](./LICENSE.txt) file for details
+
+## Обзор
+
+Этот аддон исправляет один из самых заметных визуальных недостатков оригинала — отсутствие ног у главного героя. Теперь при взгляде вниз вы увидите ноги, соответствующие выбранному костюму. Добавлена анимация движения, благодаря чему игра выглядит более реалистично и завершено
+
+## Примечаниe
+
+> [!WARNING]
+>
+> Поддерживается только на __IX-Ray Platform__!
+
+## Рекомендации
+
+Установка:
+
+1. Установить оригинальный Stalker Call of Pripyat 1.6.02
+2. Установить актуальную версию IX-Ray (минимальная 1.1)
+3. Распакуйте архив аддона в папку с игрой
+4. Запустите игру и играйте
+
+Ссылка на текущую версию __IX-Ray__ [релиз](https://github.com/ixray-team/ixray-1.6-stcop/releases/latest)
+
+## Контрибьюторы
+
+- Команда IX-Ray
+  - `Hozar_2002`
+
+- Сообщество
+  - `Lost Alpha`
+  - `Dead Air`
+
+## Лицензия
+
+Содержимое этого репозитория лицензировано в соответствии с условиями лицензии __CC BY-NC-SA 4.0__, если не указано иное. Подробности см. в файле [здесь](./LICENSE.txt)
